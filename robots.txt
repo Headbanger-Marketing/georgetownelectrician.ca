@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://georgetownelectrician.ca/sitemap-index.xml
